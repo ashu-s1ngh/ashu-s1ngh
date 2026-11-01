@@ -11,8 +11,14 @@
 
 <br/>
 
+<a href="https://drive.google.com/file/d/1uUxlqXQtv3d9pAV9n0oKllAZenPlgHa-/view?usp=sharing"><img src="https://img.shields.io/badge/View%20My%20R%C3%A9sum%C3%A9-36BCF7?style=for-the-badge&logo=googledrive&logoColor=white" alt="View my résumé" /></a>
+<a href="mailto:ashusingh4122006@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+<a href="https://www.linkedin.com/in/ashu-singh-66a4a2376"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<br/><br/>
+
 <a href="https://github.com/ashu-s1ngh">
-  <img src="https://komarev.com/ghpvc/?username=ashu-s1ngh&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ashu-s1ngh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </a>
 
 </div>
@@ -40,6 +46,15 @@ class Ashu:
 
 ---
 
+## 🧰 What I Do
+
+- 🔌 **Build APIs:** the connections that let apps and services talk to each other
+- 🗄️ **Design databases:** organizing and storing data so it's fast and reliable
+- ⚙️ **Create web backends:** the server side of web apps, written mainly in Python
+- 📓 **Document my work:** clear write-ups of how and why I built things
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -48,7 +63,7 @@ class Ashu:
 <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=django" alt="Django" width="48" height="48" /></a>
 <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="48" height="48" /></a>
 <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48" /></a>
-<a href="https://www.sqlalchemy.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlalchemy/sqlalchemy-icon.svg" alt="SQLAlchemy" width="48" height="48" /></a>
+<a href="https://www.sqlalchemy.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="48" height="48" /></a>
 <a href="https://www.sqlite.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="48" height="48" /></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" /></a>
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" /></a>
@@ -74,21 +89,12 @@ class Ashu:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
 <a href="https://github.com/ashu-s1ngh?tab=followers"><img src="https://img.shields.io/github/followers/ashu-s1ngh?style=for-the-badge&logo=github&color=0e75b6" alt="Followers" /></a>
-<a href="https://github.com/ashu-s1ngh?tab=repositories"><img src="https://img.shields.io/github/stars/ashu-s1ngh/LeadSense?style=for-the-badge&logo=github&color=F7B93E&label=LeadSense%20stars" alt="LeadSense stars" /></a>
-
-<br/><br/>
-
-<a href="https://github.com/ashu-s1ngh">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashu-s1ngh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
-</a>
-<a href="https://github.com/ashu-s1ngh?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu-s1ngh&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
-</a>
+<a href="https://github.com/ashu-s1ngh?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-View%20All-2c5364?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" /></a>
 
 <br/><br/>
 
@@ -100,7 +106,7 @@ class Ashu:
 
 ---
 
-## 🧩 LeetCode
+## 🧩 Problem Solving (LeetCode)
 
 <div align="center">
 
@@ -113,6 +119,8 @@ class Ashu:
 ---
 
 ## 🤝 Let's Connect
+
+I'm open to internships and opportunities. The best way to reach me is by email or LinkedIn.
 
 <div align="center">
 
